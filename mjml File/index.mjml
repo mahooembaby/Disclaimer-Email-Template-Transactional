@@ -1,0 +1,55 @@
+<mjml>
+  <mj-body background-color="#e7e7e7">
+    <!-- Start Banner Section -->
+    <mj-section background-color="#edebff" padding-top="0" padding-bottom="0" padding-left="0" padding-right="0">
+      <mj-column>
+        <mj-image padding="0px" src="https://i.ibb.co/tMbMDtG/1677846458754-Asset-1.png"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!-- End Banner Section -->
+    <!-- Start Body Section -->
+    <mj-section background-color="#edebff" padding-top="0" padding-bottom="0" padding-left="0" padding-right="0">
+      <mj-column>
+        <mj-text color="#22212e" padding-top="60px" padding-bottom="20px" font-size="25px" font-weight="500" text-transform="capitalize">dear sir!</mj-text>
+        <mj-text color="#22212e" padding-top="15px" padding-bottom="15px" font-size="14px" line-height="20px" font-weight="400" text-transform="capitalize">lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitattion ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br />Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. </mj-text>
+        <mj-text color="#22212e" padding-top="15px" padding-bottom="80px" font-size="18px" line-height="20px" font-weight="600" text-transform="capitalize">best regards.</mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- End Body Section -->
+    <!-- Start Body Section -->
+    <mj-section background-color="#fff">
+      <mj-column width="40%">
+        <mj-image align="center" padding="0 0 0 15px" src="https://i.ibb.co/FHLjr6G/1677846623351-Asset-2.png"></mj-image>
+      </mj-column>
+      <mj-column width="60%">
+        <mj-text font-size="25px" text-transform="capitalize" font-weight="600" padding-top="35px">david bawyer</mj-text>
+        <mj-text font-size="18px" text-transform="capitalize" font-weight="500" padding-top="0px" padding-bottom="0">human resource</mj-text>
+        <mj-text font-size="14px" text-transform="capitalize" font-weight="500" padding-top="5px" padding-bottom="5px">+625 5487 8973</mj-text>
+        <mj-text font-size="14px" font-weight="500" padding-top="0" padding-bottom="15px">example@mail.com</mj-text>
+        <mj-text>
+          <div>
+            <a href="#"><img src="https://i.ibb.co/WnNWHzS/facebook.png" style="width:20px;margin-right:5px;" /></a>
+            <a href="#"><img src="https://i.ibb.co/Sy10fbN/linkedin.png" style="width:20px;margin-right:5px;" /></a>
+            <a href="#"><img src="https://i.ibb.co/NNMLgmQ/x.png" style="width:20px;margin-right:5px;" /></a>
+            <a href="#"><img src="https://i.ibb.co/Ln9K2SJ/youtube.png" style="width:20px;margin-right:5px;" /></a>
+          </div>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- End Body Section -->
+    <!-- Start Body Section -->
+    <mj-section background-color="#fff" padding-bottom="0">
+      <mj-column>
+        <mj-divider border-color="#dadada" border-style="solid" border-width="1px"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <!-- End Body Section -->
+    <!-- Start Footer Paragraph Section -->
+    <mj-section background-color="#fff" padding-top="0" padding-bottom="0">
+      <mj-column>
+        <mj-text font-size="14px" line-height="22px" color="#22212e" font-style="italic">lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitattion ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br />Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- End Footer Paragraph Section -->
+  </mj-body>
+</mjml>
